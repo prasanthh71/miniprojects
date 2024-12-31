@@ -25,7 +25,7 @@ This repository showcases a collection of Java mini projects focused on **core p
   - Generates secure keys.
   - Ensures data integrity and authenticity.
  
-  - # 4.Currency Converter
+### 4.Currency Converter
 
 This **Currency Converter** is a Java-based application that allows users to perform currency conversions between multiple international currencies, including USD, EUR, GBP, CHF, CNY, and JPY. It uses `HashMap` to store predefined exchange rates, supports initializing currencies with default values, and performs precise conversions with encapsulated methods for managing currency details.
 
