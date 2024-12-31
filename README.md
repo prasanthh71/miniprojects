@@ -24,6 +24,25 @@ This repository showcases a collection of Java mini projects focused on **core p
   - Implements RSA for encryption and decryption.
   - Generates secure keys.
   - Ensures data integrity and authenticity.
+ 
+  - # 4.Currency Converter
+
+This **Currency Converter** is a Java-based application that allows users to perform currency conversions between multiple international currencies, including USD, EUR, GBP, CHF, CNY, and JPY. It uses `HashMap` to store predefined exchange rates, supports initializing currencies with default values, and performs precise conversions with encapsulated methods for managing currency details.
+
+## Features
+- Represents currencies with their full names and short codes (e.g., "US Dollar" - "USD").
+- Stores and manages exchange rates using a `HashMap`.
+- Includes methods to initialize default exchange rates and perform conversions.
+- Encapsulation of currency properties using getters and setters.
+
+## How It Works
+1. **Initialization:** A list of predefined currencies is created with default exchange rates.
+2. **Conversion:** Converts any amount from one currency to another using these exchange rates.
+
+## Technologies Used
+- **Programming Language:** Java
+- **Data Structures:** `ArrayList`, `HashMap`
+
 
 ## Key Technologies Used
 - **Programming Language**: Java
